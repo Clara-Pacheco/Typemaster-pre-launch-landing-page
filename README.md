@@ -1,6 +1,6 @@
 # Frontend Mentor - Typemaster pre-launch landing page solution
 
-This is a solution to the [Typemaster pre-launch landing page challenge on Frontend Mentor](https://github.com/Clara-Pacheco/Typemaster-pre-launch-landing-page/blob/main/preview.jpg).
+This is a solution to the [Typemaster pre-launch landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/typemaster-prelaunch-landing-page-J6-Yj5J-X/hub/typemaster-prelaunch-landing-page-IXb-39UwsG).
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <!-- ## Table of contents
@@ -19,11 +19,13 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+**Note: Delete this note and update the table of contents based on what sections you keep.**-->
 
-## Overview
+ ## Preview
 
-### The challenge
+ ![](https://github.com/Clara-Pacheco/Typemaster-pre-launch-landing-page/blob/main/preview.jpg)
+
+<!--### The challenge
 
 Users should be able to:
 
